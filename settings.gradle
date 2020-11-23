@@ -1,2 +1,3 @@
+include ':opencvLib'
 include ':app'
 rootProject.name = "AndroidOpencv"
