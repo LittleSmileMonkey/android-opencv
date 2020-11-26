@@ -4,10 +4,10 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    tools:context=".MainActivity">
+    tools:context=".core.LearnMatActivity">
 
-    <androidx.recyclerview.widget.RecyclerView
-        android:id="@+id/rv_package"
+    <ImageView
+        android:id="@+id/iv_origin"
         android:layout_width="match_parent"
         android:layout_height="match_parent"/>
 
